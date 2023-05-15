@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ADMINISTRATOR</Machine>
+    <WindowsUser>25764</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM64</SolutionConfiguration>
+    <PackageArchitecture>arm64</PackageArchitecture>
+    <PackageIdentityName>82a9deb6-ade0-409a-bf36-b94f789b9a39</PackageIdentityName>
+    <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
+    <IntermediateOutputPath>A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>A:\UnityProject\AR Needle\FirstBuild\build\bin\ARM64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>95E35B86547836C7DD38165615D4F4194B2870008CAB9B5046D1707F876242AA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>AR-Needle_1.0.0.0_arm64__pzq3xp76mxafg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>AR-Needle_pzq3xp76mxafg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>AR-Needle</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DefaultCompany</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="A:\UnityProject\AR Needle\FirstBuild\build\bin\ARM64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-05-10T11:51:49.292</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\build\bin\ARM64\Release\AR Needle.exe">
+      <PackagePath>AR Needle.exe</PackagePath>
+      <Modified>2023-05-10T11:51:47.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2023-03-21T22:28:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2023-03-21T22:28:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\build\bin\ARM64\Release\AR_Needle.winmd">
+      <PackagePath>AR_Needle.winmd</PackagePath>
+      <Modified>2023-05-10T11:51:47.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2023-03-21T21:43:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+      <Modified>2023-05-10T11:48:17.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\StreamingAssets\Vuforia\CylinderD1.5cm.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\CylinderD1.5cm.xml</PackagePath>
+      <Modified>2023-05-10T01:42:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\StreamingAssets\Vuforia\CylinderD3cm.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\CylinderD3cm.xml</PackagePath>
+      <Modified>2023-05-10T02:57:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\StreamingAssets\Vuforia\tiger.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\tiger.xml</PackagePath>
+      <Modified>2023-05-10T11:30:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\StreamingAssets\Vuforia\VuforiaMars_Images.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Images.xml</PackagePath>
+      <Modified>2023-04-21T12:03:19.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\boot.config">
+      <PackagePath>Data\boot.config</PackagePath>
+      <Modified>2023-05-10T11:48:15.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\globalgamemanagers">
+      <PackagePath>Data\globalgamemanagers</PackagePath>
+      <Modified>2023-05-10T11:48:13.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2023-05-10T11:48:10.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2023-03-21T21:43:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2023-05-10T11:48:15.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\globalgamemanagers.assets">
+      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
+      <Modified>2023-05-10T11:48:13.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\resources.assets">
+      <PackagePath>Data\resources.assets</PackagePath>
+      <Modified>2023-05-10T11:48:13.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2023-05-10T11:48:14.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\level0.resS">
+      <PackagePath>Data\level0.resS</PackagePath>
+      <Modified>2023-05-10T11:48:10.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\resources.assets.resS">
+      <PackagePath>Data\resources.assets.resS</PackagePath>
+      <Modified>2023-05-10T11:48:13.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+      <Modified>2023-05-10T11:48:14.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\nativePlugins.txt">
+      <PackagePath>Data\nativePlugins.txt</PackagePath>
+      <Modified>2023-05-10T11:48:39.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\RuntimeInitializeOnLoads.json">
+      <PackagePath>Data\RuntimeInitializeOnLoads.json</PackagePath>
+      <Modified>2023-05-10T11:48:10.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\ScriptingAssemblies.json">
+      <PackagePath>Data\ScriptingAssemblies.json</PackagePath>
+      <Modified>2023-05-10T11:48:13.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\UnitySubsystems\MicrosoftOpenXRPlugin\UnitySubsystemsManifest.json">
+      <PackagePath>Data\UnitySubsystems\MicrosoftOpenXRPlugin\UnitySubsystemsManifest.json</PackagePath>
+      <Modified>2023-05-05T08:26:53.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\UnitySubsystems\UnityOpenXR\UnitySubsystemsManifest.json">
+      <PackagePath>Data\UnitySubsystems\UnityOpenXR\UnitySubsystemsManifest.json</PackagePath>
+      <Modified>2023-03-21T22:03:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\sharedassets0.resource">
+      <PackagePath>Data\sharedassets0.resource</PackagePath>
+      <Modified>2023-05-10T11:48:14.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\il2cpp_data\Metadata\global-metadata.dat">
+      <PackagePath>Data\il2cpp_data\Metadata\global-metadata.dat</PackagePath>
+      <Modified>2023-05-10T11:48:36.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</PackagePath>
+      <Modified>2023-05-10T11:48:29.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</PackagePath>
+      <Modified>2023-05-10T11:48:29.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\StreamingAssets\Vuforia\CylinderD1.5cm.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\CylinderD1.5cm.dat</PackagePath>
+      <Modified>2023-05-10T01:42:39.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\StreamingAssets\Vuforia\CylinderD3cm.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\CylinderD3cm.dat</PackagePath>
+      <Modified>2023-05-10T02:57:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\StreamingAssets\Vuforia\tiger.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\tiger.dat</PackagePath>
+      <Modified>2023-05-10T11:30:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\VuforiaMars_Images.dat</PackagePath>
+      <Modified>2023-04-21T12:03:19.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\UnityOpenXR.dll">
+      <PackagePath>UnityOpenXR.dll</PackagePath>
+      <Modified>2023-03-21T22:03:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\VuforiaEngine.dll">
+      <PackagePath>VuforiaEngine.dll</PackagePath>
+      <Modified>2023-04-21T12:07:37.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\openxr_loader.dll">
+      <PackagePath>openxr_loader.dll</PackagePath>
+      <Modified>2023-03-21T22:03:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\AR Needle\MicrosoftOpenXRPlugin.dll">
+      <PackagePath>MicrosoftOpenXRPlugin.dll</PackagePath>
+      <Modified>2023-05-05T08:26:53.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\build\bin\ARM64\Release\GameAssembly.dll">
+      <PackagePath>GameAssembly.dll</PackagePath>
+      <Modified>2023-05-10T11:51:43.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\Players\UAP\il2cpp\ARM64\Release\baselib.dll">
+      <PackagePath>baselib.dll</PackagePath>
+      <Modified>2023-03-21T22:28:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\UnityProject\AR Needle\FirstBuild\build\bin\ARM64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2023-05-10T11:51:48.666</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <CylinderTarget name="d15s50" sideLength="0.050000"/>
+    <CylinderTarget name="d15s45" sideLength="0.045000"/>
+    <CylinderTarget name="d15s40" sideLength="0.040000"/>
+    <CylinderTarget name="d15s35" sideLength="0.035000"/>
+    <CylinderTarget name="d15s30" sideLength="0.030000"/>
+    <CylinderTarget name="d15s25" sideLength="0.025000"/>
+    <CylinderTarget name="d15s20" sideLength="0.020000"/>
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="d15s50" version="3.0" targetId="5b1d072d473142b2868c36a4c12736ca" sideLength="0.050000" topDiameter="0.015000" bottomDiameter="0.015000" sideImage="d15s50.Body_scaled.jpg" topImage="d15s50.Top_scaled.jpg" bottomImage="d15s50.Bottom_scaled.jpg"/>
+        <CylinderTarget name="d15s45" version="3.0" targetId="63ae7b4dd81d4e368e8cae2edb857a4a" sideLength="0.045000" topDiameter="0.015000" bottomDiameter="0.015000" sideImage="d15s45.Body_scaled.jpg" topImage="d15s45.Top_scaled.jpg" bottomImage="d15s45.Bottom_scaled.jpg"/>
+        <CylinderTarget name="d15s40" version="3.0" targetId="ad1f3c74dee84d90ac55b39417c763c4" sideLength="0.040000" topDiameter="0.015000" bottomDiameter="0.015000" sideImage="d15s40.Body_scaled.jpg" topImage="d15s40.Top_scaled.jpg" bottomImage="d15s40.Bottom_scaled.jpg"/>
+        <CylinderTarget name="d15s35" version="3.0" targetId="fb067594e5eb49abb53a771efd279060" sideLength="0.035000" topDiameter="0.015000" bottomDiameter="0.015000" sideImage="d15s35.Body_scaled.jpg" topImage="d15s35.Top_scaled.jpg" bottomImage="d15s35.Bottom_scaled.jpg"/>
+        <CylinderTarget name="d15s30" version="3.0" targetId="071da21efdbb4890bdea7d2b900f7fd0" sideLength="0.030000" topDiameter="0.015000" bottomDiameter="0.015000" sideImage="d15s30.Body_scaled.jpg" topImage="d15s30.Top_scaled.jpg" bottomImage="d15s30.Bottom_scaled.jpg"/>
+        <CylinderTarget name="d15s25" version="3.0" targetId="25e88876e28f4d5a9167ac4abac65fb1" sideLength="0.025000" topDiameter="0.015000" bottomDiameter="0.015000" sideImage="d15s25.Body_scaled.jpg" topImage="d15s25.Top_scaled.jpg" bottomImage="d15s25.Bottom_scaled.jpg"/>
+        <CylinderTarget name="d15s20" version="3.0" targetId="43dc626e266f4945bb0807d22403d6bf" sideLength="0.020000" topDiameter="0.015000" bottomDiameter="0.015000" sideImage="d15s20.Body_scaled.jpg" topImage="d15s20.Top_scaled.jpg" bottomImage="d15s20.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

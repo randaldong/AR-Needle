@@ -1,0 +1,24 @@
+A:\UnityProject\AR Needle\FirstBuild\build\bin\ARM64\Release\resources.pri
+A:\UnityProject\AR Needle\FirstBuild\build\bin\ARM64\Release\AppxManifest.xml
+A:\UnityProject\AR Needle\FirstBuild\build\bin\ARM64\Release\AR Needle.build.appxrecipe
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\AR Needle.vcxproj.AssemblyReference.cache
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\AR Needle.vcxproj.CopyComplete
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\ResourceHandlingTask.state
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\AR Needle.vcxproj.GenerateResource.Cache
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\priconfig.xml
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\priconfig.xml.intermediate
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\unfiltered.layout.resfiles
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\unfiltered.layout.resfiles.intermediate
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\filtered.layout.resfiles
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\filtered.layout.resfiles.intermediate
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\excluded.layout.resfiles
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\excluded.layout.resfiles.intermediate
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\resources.resfiles
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\resources.resfiles.intermediate
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\pri.resfiles
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\pri.resfiles.intermediate
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\qualifiers.txt
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\qualifiers.txt.intermediate
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\MultipleQualifiersPerDimensionFound.txt
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\ProjectArchitectures.txt
+A:\UnityProject\AR Needle\FirstBuild\build\obj\AR Needle\ARM64\Release\.winmd_cache\$UnityPlayer.winmd_638150345020000000.json

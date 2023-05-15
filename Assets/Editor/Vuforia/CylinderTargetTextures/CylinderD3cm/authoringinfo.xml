@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="d30s30" version="3.0" targetId="e8cb7f7b3b7e4fe6a2058a328c94bffa" sideLength="0.030000" topDiameter="0.030000" bottomDiameter="0.030000" sideImage="d30s30.Body_scaled.jpg" topImage="d30s30.Top_scaled.jpg" bottomImage="d30s30.Bottom_scaled.jpg"/>
+        <CylinderTarget name="d30s50" version="3.0" targetId="b5b372211d2e4fd68c6df5fbe4b9fbc5" sideLength="0.050000" topDiameter="0.030000" bottomDiameter="0.030000" sideImage="d30s50.Body_scaled.jpg" topImage="d30s50.Top_scaled.jpg" bottomImage="d30s50.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
